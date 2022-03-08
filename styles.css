@@ -1,18 +1,21 @@
 .sidenav  {
+    font-family: 'Neuton', serif;
     margin-left: 5%;
     float: left;
-    display: block;}
+    display: block;
+    color: darkslategrey;
+    font-size: larger;
+    font-weight: bolder;
+}
 
     .main {
-        font-family: 'Neuton', serif;
+        font-family: 'Assistant', sans-serif;
         font-size: large;
         margin-left: 5%;
         float: inline-start;
         display: block;}
 
-        h1
-
-        {
+        h1     {
             font-family: 'Luckiest Guy', cursive;
             text-align: center;
             color: darkred;
